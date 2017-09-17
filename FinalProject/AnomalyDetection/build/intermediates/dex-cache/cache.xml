@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_0207a1b2575de511115e4773bbb0a38ee1b747d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_2a94033e54da53fce157cdeed9461cfea4d12e54\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_163525482a8abcea6979cb06844e9cc33bface19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_3a89a3c5745b3ba2c65ac9b36d77fab37803c059\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_731f63f6eda49c2710559d71eaa22ae316242164\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_f04ccbada530a3d82552a43937058ce18c6420cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fdc2aababe9c651f877c85b31af4a03d0623e57e">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4c459a91101092a4c808eb4e1f174f73bb933bd2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="144d3bbc0fb48527a0dc2ffa6f450b8d2f6565e4">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_42b6996f648aaab7a030fe21e7b8157bd5c122ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_db6d26467e82d0c9bb4028b9e5dcbcde9c243c80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_a73d4756200b1b4b6acc9364cbabfa3a2e445bdb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_3614cc35f653f97c0ce1ea34da982de1578aac72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_b63216041b477bca2e820382b9aaf587d58345e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_91d0618d36174e0cea1f0f168fef1efcbee5d129\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\ruaha\Desktop\Android BE Project\AnomalyDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_582c721458cfa22a81a376c8452993d2188318fb\classes.dex" />
+    </item>
+
+</items>
